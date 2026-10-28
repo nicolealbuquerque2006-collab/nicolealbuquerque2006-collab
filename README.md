@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nicole-moreira-aa30a6343"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nicolealbuquerque2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -50,6 +51,16 @@ Hoje meu foco é unir **prática de mercado e base de engenharia**: criar sites 
 | 🤝 [Desafio Colaborativo Git](https://github.com/nicolealbuquerque2006-collab/desafio-colaborativo-git) | Projeto em HTML desenvolvido em equipe para praticar Git e GitHub |
 
 ---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolealbuquerque2006-collab&layout=compact&hide_border=true" />
+</p>
+
+---
+
+<p align="center"><i>"Um bom site é aquele que funciona bem para todo mundo, em qualquer tela."</i></p>
 
 ## 📊 Estatísticas
 
